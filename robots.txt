@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yitedianqi.cn/sitemap.xml

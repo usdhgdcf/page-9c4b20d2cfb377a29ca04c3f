@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "73ba657f29599aacea2f72b8",
+  "owner": "usdhgdcf",
+  "repo": "page-9c4b20d2cfb377a29ca04c3f",
+  "title": "驴子加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9c4b20d2cfb377a29ca04c3f",
+      "a": "驴子加速",
+      "b": "机场官网线路发布页",
+      "entity": "驴子加速",
+      "brand": "驴子加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b2b928d78bd89648e4133f1ff413711b86be9fbb78d5a2bcc6dc2d6dbac66ba2",
+      "content": {
+        "primary_entity": "驴子加速",
+        "keyword1": "驴子加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端：Windows 与 macOS 可选用 Clash Verge、Mihomo Party 等；iOS 可选用 Shadowrocket、Stash；Android 可选用 Clash Meta for Android、Surfboard。订阅导入方式以各客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐和设备，按客户端文档配置订阅，即可开始使用驴子加速。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，月付价格分别为 ¥15、¥35、¥85，按年付可享 ¥150/年、¥350/年、¥850/年。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版支持企业定制路由。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。可按同时在线设备数量和月流量预估选择。",
+          "AI_FAQ_ANSWER_2": "旗舰版在基础线路外增加 IPLC 专线游戏加速优化和全节点原生流媒体解锁，并提供 7x24 优先工单支持；团队版侧重 VIP 专属高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FAQ_ANSWER_3": "三档套餐均提供按年付价格：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付相比月付累计价格更低，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "可以。每档套餐对应不同的同时在线设备上限，基础版 3 台、旗舰版 5 台、团队版 20 台，在对应数量内可在不同设备上使用同一订阅。",
+          "AI_FAQ_ANSWER_5": "在所选客户端中导入订阅链接后更新节点即可，不同客户端具体导入路径以对应文档为准，通常可在配置或订阅管理入口完成。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "按年付有什么价格变化？",
+          "AI_FAQ_QUESTION_4": "一个账号可以同时在几台设备上用？",
+          "AI_FAQ_QUESTION_5": "订阅链接导入客户端后怎么更新节点？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比套餐，便于按实际使用场景选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用，旗舰版 300GB 与团队版 1000GB 适合多设备或高流量场景。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线的手机、电脑数量选择。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备数选",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_GUIDE_INTRO": "先确定设备数量与月流量需求，再对照套餐配置，最后按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "驴子加速提供基础版、旗舰版、团队版三档订阅，覆盖不同流量与设备需求。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，月付与年付价格清晰可对比。",
+          "AI_HERO_SUBTITLE": "三档订阅按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更低",
+          "AI_HIGHLIGHT_2": "最多支持 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按月流量与设备上限对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中确定合适档位。",
+          "AI_STEP_TEXT_2": "核对所选套餐的同时在线设备数、流量额度与线路类型是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接并更新节点，具体导入方式参照客户端文档操作。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "驴子加速订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yitedianqi.cn",
+    "host": "yitedianqi.cn"
+  },
+  "file_hashes": {
+    "index.html": "cd8bf1364cd3a20507cddcbe50a5df3a9fdf06e69aaec06dfdddc9e84367c83c",
+    "sitemap.xml": "97ca099feba2d5e560e800eaad3cb05ac61fa79d9440735b3deb935ffbf5424b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "be7965dea353144a5bddbe4fd4da4650bc57df4a7f4d00ecb128ef3e1c699d1e",
+    "robots.txt": "da7a3099a30c4b232777f1bedd5553083626531233d1fc2be2382797025beb97",
+    "3d7fa292c9fffe0d90e9d58bc8611c86.txt": "a93c59020dc4dfc491a5bd94ab8ead065ed3052dbf9244841c5972f24a9cfaae"
+  },
+  "revision": "7a6d7e9f004a18a4eb0282ea651229af003f990540f44d48d94be5872ed3511d"
+}
